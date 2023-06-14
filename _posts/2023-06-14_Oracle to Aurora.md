@@ -18,7 +18,11 @@ Project: 이기종 마이그레이션(Oracle ⇨ Aurora)
     + 이기종 마이그레이션시 데이터형 차이
     + AWS 서비스 사용 경험
     + 이전 프로젝트외에도 사내 세미나 및 AWS사의 연수에 참가해 AWS Cloud환경에 대한 지식과 경험을 쌓았습니다.
-+ skill : 
++ skill :
+
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?style=plastic&logo=oracle&logoColor=ffffff)
+![AWS](https://img.shields.io/badge/-Amazon_AWS-232F3E?style=plastic&logo=amazonaws&logoColor=ffffff)
+![AWS RDS](https://img.shields.io/badge/-Amazon_RDS-527FFF?style=plastic&logo=amazonrds&logoColor=ffffff)
 ![Shell Script](https://img.shields.io/badge/-Grafana-F46800?style=plastic&logo=grafana&logoColor=222222)
-![Slack](https://img.shields.io/badge/-Slack-4A154B?style=plastic&logo=slacklogoColor=ffffff)
-![Zabbix](https://img.shields.io/badge/-Zabbix-CC0000?style=plastic&logoColor=ffffff)
+![Slack](https://img.shields.io/badge/-Slack-4A154B?style=plastic&logo=slack&logoColor=ffffff)
+![Zabbix](https://img.shields.io/badge/-Zabbix-D24939?style=plastic&logo=jenkins&logoColor=ffffff)
