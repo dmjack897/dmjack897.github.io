@@ -11,7 +11,9 @@ Project: 물리서버 가상화 Migration
         + 백업용 slave서버 2개, 부하분산용 slave서버 2개
     + Jenkins를 이용한 물리서버와 가상서버의 퍼포먼스 차이 조사
     + 프로젝트 관련팀과 프로젝트 일정 및 작업 방식 조율
-+ 획득 역량 : Shell Script작성법을 습득했습니다.
++ 획득 역량 :
+    + mysqldump, restore 및 replication을 이용한 DB서버 구축방법을 익혔습니다.
+    + 물리서버와 가상서버의 퍼포먼스 차이를 직접 조사해 둘의 차이를 알게되었습니다. 
   
 + skill :
   ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=mysql&logoColor=ffffff)
